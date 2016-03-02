@@ -32,6 +32,7 @@ public class ProgrammingAsignmentWeek4 {
 			++i;
 			}
 		}
+	
 	public static void mergeSort(int[] arr, int lower, int higher)
 	{
 		//int size  = arr.length;
